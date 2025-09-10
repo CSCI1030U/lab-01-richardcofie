@@ -1,3 +1,4 @@
+#Richard Cofie 100881766
 import lab01
 import sys
 
